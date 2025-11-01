@@ -1,0 +1,15 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Model libraries
+xgboost>=1.6.0
+lightgbm>=3.3.0
+
+# Utility libraries
+joblib>=1.2.0
+
+# Optional visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
